@@ -187,7 +187,7 @@ export default defineComponent({
         list: [
           {
             button: 'VIEW GUIDE',
-            link: 'https://docs.swanchain.io/quickstarts/dive-into-quickstarts/developing-smart-contracts-with-go'
+            link: 'https://docs.swanchain.io/development-resource/quickstarts/deploying-your-first-smart-contract-with-remix'
           }
         ],
         disabled: false
