@@ -239,19 +239,18 @@ export default defineComponent({
       },
       {
         content: 'Partnership and Integration Program',
-        button: 'COMING SOON',
-        link: ''
-        // link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/partnership-and-integration-program'
+        button: 'EXPLORE MORE',
+        link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/partnership-and-integration-program'
       },
       {
         content: 'Bug Bounty Program',
-        button: 'COMING SOON',
-        link: ''
+        button: 'EXPLORE MORE',
+        link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/bug-bounty-program'
       },
       {
         content: 'Developer Grant Program',
-        button: 'COMING SOON',
-        link: ''
+        button: 'EXPLORE MORE',
+        link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/developer-grant-program'
       },
     ])
     const fundData = ref([
