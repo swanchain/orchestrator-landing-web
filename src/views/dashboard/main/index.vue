@@ -84,7 +84,7 @@
         <div class="lang-max">
           <h3 class="font-bold uppercase">Rewards and Incentives</h3>
           <h5 class="weight-6">3,000,000 SWAN tokens allocated for various programs</h5>
-          <el-row :gutter="rewardWidth" class="reward-style">
+          <el-row :gutter="rewardWidth" class="reward-style flex-row flex-start">
             <el-col :xs="24" :sm="8" :md="8" :lg="8" :xl="8" v-for="(reward, r) in rewardData" :key="r">
               <div class="content" :class="{'none': !reward.link}">
                 <h1 class="small weight-6">{{reward.content}}</h1>
@@ -241,11 +241,6 @@ export default defineComponent({
         content: 'Partnership and Integration Program',
         button: 'EXPLORE MORE',
         link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/partnership-and-integration-program'
-      },
-      {
-        content: 'Bug Bounty Program',
-        button: 'EXPLORE MORE',
-        link: 'https://docs.swanchain.io/swan-testnet/swan-saturn-testnet/bug-bounty-program'
       },
       {
         content: 'Developer Grant Program',
@@ -584,7 +579,7 @@ export default defineComponent({
       .reward-style {
         padding: 1rem 15% 0.2rem;
         .el-col {
-          margin: 0.4rem auto 0;
+          margin: 0.4rem 0 0;
           .content {
             position: relative;
             height: calc(100% - 1.2rem);
