@@ -35,7 +35,7 @@
           <div class="title font-black">Welcome to <br />SWAN SATURN TESTNET</div>
           <p class="font-bold">Share Prize Pool of 3,000,000 SWAN</p>
           <div class="time flex-row center">
-            <span class="font-bold">22nd January, 00:00 (EST) - 22nd March, 00:00 (EST)</span>
+            <span class="font-bold">22nd January, 00:00 (EST) - 15th April, 23:59 (EST)</span>
           </div>
           <div class="desc describe">
             Saturn Testnet is the public testnet of Swan Chain, a layer 2 AI computing blockchain with Superchain technology. Our mission is to rigorously test and showcase the capabilities of Swan Chain, with the help of the developer community.
@@ -211,7 +211,7 @@ export default defineComponent({
         list: [
           {
             button: 'CLAIM NOW',
-            link: 'https://discord.gg/37ze379kqW'
+            link: 'https://discord.com/invite/swanchain'
           },
           {
             button: 'VIEW GUIDE',
