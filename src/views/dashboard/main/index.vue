@@ -38,9 +38,9 @@
             <span class="font-bold">22nd January, 00:00 (EST) - 15th April, 23:59 (EST)</span>
           </div>
           <div class="desc describe">
-            Saturn Testnet is the public testnet of Swan Chain, a layer 2 AI computing blockchain with Superchain technology. Our mission is to rigorously test and showcase the capabilities of Swan Chain, with the help of the developer community.
+            Thank you for your incredible participation in the Swan Chain Saturn Campaign. The campaign has now concluded successfully. Join the Swan community to stay connected.
           </div>
-          <a href="https://docs.swanchain.io/swan-testnet/swan-saturn-testnet" target="_blank" class="join-a">JOIN TESTNET</a>
+          <a href="https://discord.com/invite/swanchain" target="_blank" class="join-a">Join Discord</a>
         </div>
         <div class="w-100"></div>
       </div>
